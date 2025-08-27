@@ -1,0 +1,16 @@
+body {
+    background-image: url(''); /* Ruta de la imagen de fondo */
+    color: rgb(248, 248, 248); /* Color del texto */
+    background-size: cover; /* Ajusta la imagen de fondo para cubrir todo el elemento */
+  }
+
+  .custom-button {
+    width: 150px;
+    height: 90px;
+    font-size: 60px;
+    font-family: "Latin Modern Roman";
+  }
+
+  .font-size-lg {
+    font-size: 40px; /* Cambia el tamaño de fuente según tus preferencias */
+  }
